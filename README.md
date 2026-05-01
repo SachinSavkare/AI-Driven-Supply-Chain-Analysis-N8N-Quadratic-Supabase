@@ -39,6 +39,10 @@ By integrating email-based data ingestion, PostgreSQL (via Supabase), and an AI-
 
 ---
 
+[![Watch the Project](https://raw.githubusercontent.com/SachinSavkare/AI-Driven-Supply-Chain-Analysis-N8N-Quadratic-Supabase/main/Thumbnail.png)](https://www.youtube.com/watch?v=Pya0dlbPw3Y)
+
+---
+
 ## 🛠️ Automation Workflow (n8n)
 
 ![Step 1 - n8n Workflow](https://github.com/SachinSavkare/AI-Driven-Supply-Chain-Analysis-N8N-Quadratic-Supabase/blob/main/Workflow.png)
